@@ -1,6 +1,6 @@
 # Introduction
 
-## TestBox & MockBox Manual v2.x
+## TestBox & MockBox Manual v3.x
 
 ![TestBox](.gitbook/assets/testboxlogo300.png)
 
@@ -12,6 +12,7 @@ Here are a simple listing of features TestBox brings to the table:
 
 * BDD style testing
 * xUnit style testing
+* Code Coverage via FusionReactor
 * Testing life-cycle methods
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) integration for mocking and stubbing
 * Ability to extend and create custom test runners
@@ -91,7 +92,7 @@ TestBox is a professional open source software backed by [Ortus Solutions, Corp]
 ## Resources
 
 * Official Site: [https://www.ortussolutions.com/products/testbox](http://www.ortussolutions.com/products/testbox)
-* Current API Docs: [http://apidocs.ortussolutions.com/testbox/current](http://apidocs.ortussolutions.com/testbox/current)
+* Current API Docs: [https://apidocs.ortussolutions.com/testbox/current](https://apidocs.ortussolutions.com/testbox/current)
 * Help Group: [https://groups.google.com/a/ortussolutions.com/forum/\#!forum/testbox](https://groups.google.com/a/ortussolutions.com/forum/#!forum/testbox)
 * Source Code: [https://github.com/Ortus-Solutions/TestBox](https://github.com/Ortus-Solutions/TestBox)
 * Bug Tracker : [https://ortussolutions.atlassian.net/browse/TESTBOX](https://ortussolutions.atlassian.net/browse/TESTBOX)
