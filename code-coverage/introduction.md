@@ -2,7 +2,7 @@
 
 When writing tests for an app or library, it's generally regarded that more tests is better since you're covering more functionality and more likely to catch regressions as they happen.  This is true, but more specifically, it's important that your tests run as much code in your project as possible.  Tests obviously can't check code that they doesn't run!  
 
-With BDD, there is not a one-to-one correlation between a test and a unit code code.  You may have a test for your login page, but how do you know if all the `else` blocks in your if statements are `case` blocks in your switch statements were run?  Was your error routing tested?  What about optional features, or code that only kicks in on the 3rd Tuesday of months in the springtime?  These can be difficult questions to answer just by staring at the results of your tests.  The answer to this is Code Coverage.
+With BDD, there is not a one-to-one correlation between a test and a unit of code.  You may have a test for your login page, but how do you know if all the `else` blocks in your if statements are `case` blocks in your switch statements were run?  Was your error routing tested?  What about optional features, or code that only kicks in on the 3rd Tuesday of months in the springtime?  These can be difficult questions to answer just by staring at the results of your tests.  The answer to this is Code Coverage.
 
 ## Code Coverage
 
