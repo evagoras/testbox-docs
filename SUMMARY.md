@@ -116,6 +116,13 @@
   * [Some Examples](mocking/mockbox/some-examples.md)
   * [Conclusion](mocking/mockbox/conclusion.md)
 
+## Code Coverage
+
+* [Introduction](code-coverage/introduction.md)
+* [Running Code Coverage](code-coverage/running-code-coverage.md)
+* [Configuring Code Coverage](code-coverage/configuring-code-coverage.md)
+* [Known Behaviors](code-coverage/known-issues.md)
+
 ## Continuous Integration
 
 * [Introduction](continuous-integration/introduction.md)
