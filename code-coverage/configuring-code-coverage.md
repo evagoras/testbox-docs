@@ -59,7 +59,7 @@ For example, if you only cared about handlers and models in an MVC app, you coul
 <cfparam name="url.coverageWhitelist" default="/handlers/,/models/">
 ```
 
-Note, al the basic rules of file globbing apply here.  To give you a quick review
+Note, all the basic rules of file globbing apply here.  To give you a quick review
 
 * Use `?` to match a single char like `/Application.cf?` 
 * Use `*` to match multiple characters within a folder or file like `/models/*Service.cfc`.
