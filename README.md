@@ -1,6 +1,6 @@
 # Introduction
 
-## TestBox & MockBox Manual v3.x
+## TestBox BDD v3.x
 
 ![TestBox](.gitbook/assets/testboxlogo300.png)
 
@@ -61,7 +61,9 @@ TestBox and MockBox are open source and licensed under the [Apache 2](https://ww
 * Copyright by Ortus Solutions, Corp
 * TestBox is a registered trademark by Ortus Solutions, Corp
 
-> **Info**: The ColdBox Websites, Documentation, logo and content have a separate license and they are a separate entity.
+{% hint style="info" %}
+The ColdBox Websites, Documentation, logo and content have a separate license and they are a separate entity.
+{% endhint %}
 
 ## Discussion & Help
 

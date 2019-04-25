@@ -10,6 +10,8 @@ Code coverage does not replace your tests nor does it change how you write your 
 
 TestBox supports code coverage statistics out-of-the box with no changes to your test suite and you can capture the data in a handful of ways, including a Coverage Browser report which visualizes every CF file in your code and shows you what lines executed and what lines didn't.
 
+![](../.gitbook/assets/testbox-codecoverage-overview.png)
+
 ## Requirements
 
 * TestBox 3.x+
